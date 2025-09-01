@@ -8,12 +8,11 @@
 🌱 Exploring React, TailwindCSS, and Flutter  
 📬 Let's connect on [LinkedIn](www.linkedin.com/in/shivansh-bhardwaj-077b361bb
 
-) — (share yours if you'd like me to insert!)
 
 ## 🛠️ Tech Stack
 - 🐍 Python, FastAPI, SQLModel, MongoDB
 - 🌐 HTML, CSS, JavaScript, TailwindCSS, React
-- 🧠 AI projects using random module, note generation
+- 🧠 AI projects, ML, Backend Development 
 - 🛠️ Tools: Git, GitHub, VS Code, Postman
 
 ## 📈 Current Projects
